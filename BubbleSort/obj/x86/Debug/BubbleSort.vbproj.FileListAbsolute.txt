@@ -1,0 +1,11 @@
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\bin\Debug\BubbleSort.xml
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.Resources.resources
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.vbproj.GenerateResource.Cache
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.exe
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.xml
+C:\Users\training.LEGAEACADEMY\Documents\comp sci\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.pdb
+C:\Aaron\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.exe
+C:\Aaron\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.xml
+C:\Aaron\BubbleSort\BubbleSort\obj\x86\Debug\BubbleSort.pdb
